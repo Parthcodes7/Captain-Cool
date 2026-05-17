@@ -1,0 +1,290 @@
+[
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T11:58:05.429Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T11:58:28.217Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:02:02.749Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:02:05.639Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:02:38.877Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:03:05.905Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:04:06.748Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:11:28.742Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:12:11.035Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:12:34.599Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 45,
+    "winProbAfter": 53,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:13:51.051Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 45,
+    "winProbAfter": 53,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:14:54.593Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:15:24.077Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:15:52.423Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:18:24.378Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:19:31.209Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:26:47.335Z"
+  },
+  {
+    "over": 16,
+    "decision": {
+      "finalDecision": {
+        "message": "Challenge heard. We've considered it. Original call stands. Back the process."
+      },
+      "wasRevised": true,
+      "whyConfirmed": "Kohli raised a valid point backed by data. The strategy has been updated to account for the field gap and timeout timing.",
+      "counterfactual": "The alternative bowling choice in these conditions would likely leak 15-18 extra runs given the dew factor and flat pitch.",
+      "winProbImpact": "+8%"
+    },
+    "winProbBefore": 25,
+    "winProbAfter": 33,
+    "delta": 8,
+    "timestamp": "2026-05-17T12:29:51.387Z"
+  }
+]

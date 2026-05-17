@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .glass-card {
+    @apply bg-white/[0.03] backdrop-blur-xl border border-white/10 shadow-[0_8px_32px_0_rgba(0,0,0,0.36)];
+  }
+  
+  .glass-panel {
+    @apply bg-[#0f172a]/80 backdrop-blur-2xl border border-white/5 shadow-2xl;
+  }
+  
+  .font-display {
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  .glow-text {
+    text-shadow: 0 0 20px rgba(249, 115, 22, 0.5);
+  }
+  
+  .glow-box {
+    box-shadow: 0 0 30px rgba(74, 222, 128, 0.2);
+  }
+}
+
+body {
+  background-color: #050B14;
+  background-image: 
+    radial-gradient(circle at 15% 50%, rgba(20, 30, 60, 1), transparent 40%), 
+    radial-gradient(circle at 85% 30%, rgba(40, 20, 10, 1), transparent 40%),
+    linear-gradient(to bottom, #050B14 0%, #0a0a0a 100%);
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+
+/* Custom Webkit Scrollbar for premium feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Radar ping animation */
+@keyframes ping-slow {
+  75%, 100% {
+    transform: scale(2.5);
+    opacity: 0;
+  }
+}
+.animate-ping-slow {
+  animation: ping-slow 2s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+/* Hide Number Input Spinners */
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+    margin: 0; 
+}
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+@keyframes shimmer {
+  from { background-position: 0% center; }
+  to { background-position: 200% center; }
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}

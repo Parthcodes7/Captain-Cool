@@ -1,0 +1,11 @@
+{
+  "gemini_calls": 2,
+  "total_balls_simulated": 36,
+  "dramatic_events_narrated": 7,
+  "tts_calls": 7,
+  "total_latency_ms": 18400,
+  "simulation_temperature": 0.8,
+  "universe_a_final_winprob": 71,
+  "universe_b_final_winprob": 23,
+  "universe_c_final_winprob": 58
+}

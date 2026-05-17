@@ -1,0 +1,30 @@
+agents:
+  - name: stats_analyst
+    model: gemini-2.5-flash
+    role: data_analysis
+    tools: [fetchLiveMatchData, calculateWinProbability, getWeatherAndDew, getBowlerStats]
+    
+  - name: strategist  
+    model: gemini-2.5-flash
+    role: primary_decision
+    tools: [getFieldPlacementSuggestion, getBowlerStats]
+    
+  - name: devils_advocate
+    model: gemini-2.5-flash
+    role: challenger
+    tools: [getBowlerStats]
+    
+  - name: moderator
+    model: gemini-2.5-flash
+    role: final_judge
+    tools: []
+    
+  - name: commentator
+    model: gemini-2.5-flash
+    role: output_formatter
+    tools: []
+
+orchestration:
+  type: sequential_with_feedback_loop
+  max_debate_rounds: 3
+  revision_threshold: 0.65

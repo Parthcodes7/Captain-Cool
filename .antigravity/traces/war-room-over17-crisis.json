@@ -1,0 +1,67 @@
+{
+  "scenario": "Over 17 Crisis",
+  "matchState": {
+    "battingTeam": "MI",
+    "bowlingTeam": "CSK",
+    "currentScore": 152,
+    "wickets": 5,
+    "over": 16,
+    "ball": 2,
+    "winProbability": 34,
+    "target": 196
+  },
+  "captainDecision": {
+    "nextBowler": "Pathirana",
+    "fieldSetup": "Standard death field",
+    "battingChange": "None",
+    "timeout": { "callNow": false },
+    "impactPlayer": { "deploy": false }
+  },
+  "simulation": {
+    "universeA": {
+      "balls": [
+        { "ball": 1, "over": 16, "ballInOver": 3, "bowler": "Pathirana", "batter": "David", "outcome": "dot", "runs": 0, "description": "Nails the yorker! Pathirana starts with an absolute beauty.", "cumulativeScore": 152, "cumulativeWickets": 5, "winProbability": 31, "momentum": "bowling", "dramaticEvent": false, "crowdReaction": "silent" },
+        { "ball": 2, "over": 16, "ballInOver": 4, "bowler": "Pathirana", "batter": "David", "outcome": "W", "runs": 0, "description": "BOWLED HIM! The slinger does it again! Middle stump is out of the ground!", "cumulativeScore": 152, "cumulativeWickets": 6, "winProbability": 18, "momentum": "bowling", "dramaticEvent": true, "crowdReaction": "roar" }
+      ],
+      "summary": {
+        "finalScore": "MI 174/8",
+        "finalWickets": 8,
+        "finalWinProbability": 71,
+        "universeVerdict": "Pathirana's precision at the death strangled the chase.",
+        "keyMoment": 2,
+        "captainRating": "Masterstroke"
+      }
+    },
+    "universeB": {
+      "balls": [
+        { "ball": 1, "over": 16, "ballInOver": 3, "bowler": "Deshpande", "batter": "David", "outcome": "6", "runs": 6, "description": "SIX! Slower ball in the slot and David launches it into the Marine Drive end!", "cumulativeScore": 158, "cumulativeWickets": 5, "winProbability": 42, "momentum": "batting", "dramaticEvent": true, "crowdReaction": "roar" },
+        { "ball": 2, "over": 16, "ballInOver": 4, "bowler": "Deshpande", "batter": "David", "outcome": "4", "runs": 4, "description": "Four more! Sliced past point, the pressure is telling on the bowler.", "cumulativeScore": 162, "cumulativeWickets": 5, "winProbability": 48, "momentum": "batting", "dramaticEvent": false, "crowdReaction": "electric" }
+      ],
+      "summary": {
+        "finalScore": "MI 192/6",
+        "finalWickets": 6,
+        "finalWinProbability": 23,
+        "universeVerdict": "Bowling the weaker link proved catastrophic as David seized momentum.",
+        "keyMoment": 1,
+        "captainRating": "Costly Error"
+      }
+    },
+    "universeC": {
+      "balls": [],
+      "summary": {
+        "finalScore": "MI 180/7",
+        "finalWickets": 7,
+        "finalWinProbability": 58,
+        "universeVerdict": "The wildcard spin option caused chaos but ultimately kept them in the hunt.",
+        "keyMoment": 6,
+        "captainRating": "Risky But Ok"
+      }
+    },
+    "simulationMetadata": {
+      "bestUniverse": "A",
+      "winProbComparison": { "A": 71, "B": 23, "C": 58 },
+      "recommendationValidated": true,
+      "confidenceScore": 84
+    }
+  }
+}
